@@ -6,3 +6,4 @@ shap
 matplotlib
 plotly
 scikit-learn
+linearmodels
