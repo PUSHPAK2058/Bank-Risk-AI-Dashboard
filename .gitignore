@@ -1,0 +1,15 @@
+# Environments
+.venv/
+venv/
+env/
+
+# IDE files
+.idea/
+__pycache__/
+
+# Secrets / Environment variables
+.env
+
+# Streamlit/Jupyter
+.streamlit/
+.ipynb_checkpoints/
